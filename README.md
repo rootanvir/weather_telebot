@@ -13,3 +13,4 @@ python -m venv .venv
 ```
 python main.py
 ```
+### Hosted on www.pythonanywhere.com
