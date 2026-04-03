@@ -9,7 +9,7 @@ HELP_MESSAGE = (
     "/start   - Start the bot\n"
     "/help    - Show this help message\n"
     "/weather <city>,<country code (optional)> - Get current weather\n"
-    "/We don't ask location access ! \n\n"
+    "We don't ask location access ! \n\n"
     "Example: /weather Dhaka,BD"
 )
 
